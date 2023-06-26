@@ -74,6 +74,7 @@ body * {
 }
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
+  border-radius: 9999px;
 }
 #switch span {
   display: block;
